@@ -1,0 +1,18 @@
+.crossHair{
+    cursor: crosshair !important;
+}
+.pointer{
+    cursor: pointer !important;
+}
+.move{
+    cursor: move !important;
+}
+.auto{
+    cursor: auto !important;
+}
+.cursor-object{
+    background-color: orange;
+    height: 4rem !important;
+    width: 4rem !important;
+    cursor: grab;
+}
